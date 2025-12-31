@@ -342,6 +342,11 @@ shall be dual licensed as above, without any additional terms or conditions.
 - [Brock Elmore](https://twitter.com/brockjelmore): For extending the VM's cheatcodes and implementing [structured call tracing](https://github.com/foundry-rs/foundry/pull/192), a critical feature for debugging smart contract calls.
 - Thank you to [Depot](https://depot.dev) for sponsoring us with their fast GitHub runners and sccache, which we use in CI to reduce build and test times significantly.
 - All the other [contributors](https://github.com/foundry-rs/foundry/graphs/contributors) to the [ethers-rs](https://github.com/gakonst/ethers-rs), [alloy][alloy] & [foundry](https://github.com/foundry-rs/foundry) repositories and chatrooms.
+## Using Foundry with Base
+
+Foundry tooling can be leveraged to deploy, test, and script smart contracts
+on the Base mainnet. This enables fast iteration cycles and cost-efficient
+onchain experimentation.
 
 [solidity]: https://soliditylang.org/
 [foundry-docs]: https://getfoundry.sh

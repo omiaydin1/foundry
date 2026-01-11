@@ -62,11 +62,9 @@ Foundry consists of:
 - **Streamlined CI/CD**
 
   - **Optimized CI**: Accelerate builds, run tests and execute scripts using [Foundry's GitHub action][foundry-gha].
-
 ## Installation
 
 Getting started is very easy:
-
 Install `foundryup`:
 
 ```
@@ -175,7 +173,6 @@ Finally, let's run our deployment script:
 ```sh
 forge script script/Counter.s.sol
 ```
-
 ```console
 [⠊] Compiling...
 No files changed, compilation skipped
